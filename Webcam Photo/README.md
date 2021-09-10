@@ -1,0 +1,1 @@
+This code helps you to capture photos using Webcam.
